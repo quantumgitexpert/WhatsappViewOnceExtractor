@@ -2,7 +2,7 @@
 
 MODDIR="$(dirname "$0")"  # /data/adb/modules/<module-id>
 
-echo -e "\nStarting copy for $(basename "$MODDIR")"
+echo -e "\nStarting copy."
 
 # create folder if necessary to store the data
 mkdir -p /storage/emulated/0/ViewOnce
