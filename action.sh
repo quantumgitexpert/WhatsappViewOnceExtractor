@@ -10,4 +10,5 @@ mkdir -p /storage/emulated/0/ViewOnce
 cp -r /data/data/com.whatsapp/files/ViewOnce/* /storage/emulated/0/ViewOnce/
 
 echo "- Action completed!"
+
 exit 0
