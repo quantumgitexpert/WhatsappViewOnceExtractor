@@ -1,7 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=viewoncecopier
+name=Whatsapp ViewOnce Extractor
+version=1.0
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=quantumgitexpert
+description=Copies Whatsapp ViewOnce pictures into a folder in the internal storage of the rooted Android device 
