@@ -1,6 +1,6 @@
 id=viewoncecopier
 name=Whatsapp ViewOnce Extractor
 version=1.0
-versionCode=2
+versionCode=1
 author=quantumgitexpert
 description=Copies Whatsapp ViewOnce pictures into a folder in the internal storage of the rooted Android device 
